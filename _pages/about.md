@@ -7,9 +7,9 @@ permalink: /about/
 Hi! I'm Nick Torba. I am a software engineer. My weapon of choice is python[^1], which I use to build an ML tooling on top of kubernetes. Most of my writing will revolve around these topics. 
 
 Some of my other interests 
-    * quantum computing [^2]
-    * genomics 
-    * mountain biking 
+* quantum computing [^2]
+* genomics 
+* mountain biking 
 
 I run this site with [fastpages](https://github.com/fastai/fastpages), an awesome way to service a site entirely through github actions. If you're looking to start writing, I highly reccomend it. 
 
