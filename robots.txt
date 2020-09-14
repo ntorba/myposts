@@ -1,1 +1,1 @@
-Sitemap: http://nicktorba.com/myposts/sitemap.xml
+Sitemap: http://nicktorba.com/sitemap.xml

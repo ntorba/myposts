@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://nicktorba.com/myposts/markdown/2020/01/14/test-markdown-post.html</loc>
+<loc>http://nicktorba.com/markdown/2020/01/14/test-markdown-post.html</loc>
 <lastmod>2020-01-14T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>http://nicktorba.com/myposts/markdown/learning/learning%20strategies/growth/2020/09/13/depth-over-breadth.html</loc>
+<loc>http://nicktorba.com/markdown/learning/learning%20strategies/growth/2020/09/13/depth-over-breadth.html</loc>
 <lastmod>2020-09-13T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://nicktorba.com/myposts/about/</loc>
+<loc>http://nicktorba.com/about/</loc>
 </url>
 <url>
-<loc>http://nicktorba.com/myposts/</loc>
+<loc>http://nicktorba.com/</loc>
 </url>
 <url>
-<loc>http://nicktorba.com/myposts/search/</loc>
+<loc>http://nicktorba.com/search/</loc>
 </url>
 <url>
-<loc>http://nicktorba.com/myposts/categories/</loc>
+<loc>http://nicktorba.com/categories/</loc>
 </url>
 </urlset>
