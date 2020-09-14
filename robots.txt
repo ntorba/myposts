@@ -1,1 +1,1 @@
-Sitemap: https://ntorba.github.io/myposts/sitemap.xml
+Sitemap: http://nicktorba.com/myposts/sitemap.xml
