@@ -11,6 +11,7 @@ Some of my other interests
     * genomics 
     * mountain biking 
 
+I run this site with [fastpages](https://github.com/fastai/fastpages), an awesome way to service a site entirely through github actions. If you're looking to start writing, I highly reccomend it. 
 
 [^1]: [Depth Over Breadth](http://nicktorba.com/markdown/learning/learning%20strategies/growth/2020/09/13/depth-over-breadth.html)
 
