@@ -6,7 +6,7 @@ title: Depth over Breadth
 description: Counterintuitive learning strategy
 categories: [markdown, learning, learning strategies, growth] 
 ---
-Depth over breadth was introduced to me while listening to [The Art of Learning](https://www.amazon.com/gp/product/0140230386/ref=as_li_qf_sp_asin_il_tl?imprToken=8S8HjpFN5qUYGel0nDft0A&slotNum=1&ie=UTF8&camp=1789&creative=9325&creativeASIN=0140230386&linkCode=w61&tag=farnamstreet-20) by Josh Waitzkin. 
+Depth over breadth was introduced to me while listening to [The Art of Learning] by Josh Waitzkin [^1]. 
 The main idea is that you gain a much better understanding of the bigger picture of any subject by digging deep on a seemingly small part. For example, as a software engineer, depth over breadth is dedicating your time to a single programming language instead of trying to learn 3 at once. A deep understanding of a single language improves your general programming ability more than a shallow understanding of many. Not to mention, learning new languages after a deep understanding of one opens the door to many important, nuanced connections. 
 
 Digging into the small part is what Josh calls the micro. "Depth over breadth" is understanding the macro (programming in general) from the micro (a single programming language). 
@@ -20,6 +20,6 @@ Deep understanding of a single library does much more than just help you underst
 With a strategy like this, you build a deeper understanding of the macro (a programming language, or even programming itself) by narrowing in on the micro (a specific library of a single language). 
 
 
-
+[^1]: [The Art of Learning](https://www.amazon.com/gp/product/0140230386/ref=as_li_qf_sp_asin_il_tl?imprToken=8S8HjpFN5qUYGel0nDft0A&slotNum=1&ie=UTF8&camp=1789&creative=9325&creativeASIN=0140230386&linkCode=w61&tag=farnamstreet-20)
 
 
