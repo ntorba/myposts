@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Hi! I’m Nick Torba. I am a software engineer. My weapon of choice is python1, which I use to build an ML tooling on top of kubernetes. Most of my writing will revolve around these topics. . Some of my other interests * quantum computing 2 * genomics * mountain biking . Depth Over Breadth &#8617; . | Learning about quantum computing by using quantum.country, which is an awesome resource. Almost more intereted in the development of their mneumonic medium than the actual topic.. almost &#8617; . |",
           "url": "http://nicktorba.com/about/",
           "relUrl": "/about/",
           "date": ""
