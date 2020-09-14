@@ -20,6 +20,6 @@ Deep understanding of a single library does much more than just help you underst
 With a strategy like this, you build a deeper understanding of the macro (a programming language, or even programming itself) by narrowing in on the micro (a specific library of a single language). 
 
 
-[^1]: [The Art of Learning](https://www.amazon.com/gp/product/0140230386/ref=as_li_qf_sp_asin_il_tl?imprToken=8S8HjpFN5qUYGel0nDft0A&slotNum=1&ie=UTF8&camp=1789&creative=9325&creativeASIN=0140230386&linkCode=w61&tag=farnamstreet-20)
+[^1]: [The Art of Learning](https://www.amazon.com/Art-Learning-Journey-Optimal-Performance-ebook/dp/B000QCQ970)
 
 
