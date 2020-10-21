@@ -27,6 +27,28 @@
   
 
   
+      ,"page2": {
+          "title": "About AMP!",
+          "content": "hopefully this generates a pull request .",
+          "url": "http://nicktorba.com/another_new_section/",
+          "relUrl": "/another_new_section/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+      ,"page4": {
+          "title": "New!",
+          "content": "This is my new tab . Hopefully this works .",
+          "url": "http://nicktorba.com/new_section/",
+          "relUrl": "/new_section/",
+          "date": ""
+      }
+      
+  
 
   
   
@@ -48,7 +70,7 @@
   
 
   
-      ,"page10": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "http://nicktorba.com/robots.txt",
